@@ -1,4 +1,4 @@
-package com.example;
+package com.javapoint;
 
 import org.junit.Test;
 import org.mockito.Mockito;
